@@ -1,0 +1,13 @@
+   Location     Sensor Visual
+  along Taft    Value  Alert 
+-------------- ------- ------
+     Vito Cruz    1     001 
+   Quirino Ave    2     010
+      U.N. Ave    0     000
+     Pedro Gil    7     111
+               -------
+         Total  10.00
+       Average   3.30
+
+
+
